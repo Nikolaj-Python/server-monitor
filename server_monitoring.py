@@ -13,3 +13,5 @@ def check_disk(disk):
 
 
 print(check_disk(75))
+
+print("Monitoring system started")
